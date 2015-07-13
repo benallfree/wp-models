@@ -1,0 +1,13 @@
+{
+    "name": "benallfree/wp-models",
+    "description": "ORM models for WordPress",
+    "require": {
+        "michelf/php-markdown": "^1.5"
+    },
+    "authors": [
+        {
+            "name": "Ben Allfree",
+            "email": "ben@benallfree.com"
+        }
+    ]
+}
